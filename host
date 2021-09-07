@@ -1,1 +1,1 @@
-Dev ansible_ssh_host=13.127.120.221 ansible_ssh_user=root
+Dev ansible_ssh_host=13.127.120.221 ansible_ssh_user=ec2-user
